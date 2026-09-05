@@ -12,6 +12,3 @@ Proyek ini merupakan tugas praktikum versioning menggunakan Git dan GitHub. Proy
 ## Rencana Projek
 Sistem projek akan dikembangkan dengan menambahkan beberapa fitur, seperti sistem rekomendasi menu, fitur ulasan dan rating, notifikasi pesanan, serta riwayat transaksi pengguna agar kedepannya akan memfasilitasi pemesanan secara langsung
 
->>>>>>> main
-=======
->>>>>>> 8191dd1d8c87f2380367fa0ccb8e4f62975da381
