@@ -1,0 +1,2 @@
+## Rencana Projek
+Sistem projek akan dikembangkan dengan menambahkan beberapa fitur, seperti sistem rekomendasi menu, fitur ulasan dan rating, notifikasi pesanan, serta riwayat transaksi pengguna agar kedepannya akan memfasilitasi pemesanan secara langsung
