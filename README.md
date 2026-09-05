@@ -8,11 +8,10 @@
 
 ## Deskripsi Kelompok
 Proyek ini merupakan tugas praktikum versioning menggunakan Git dan GitHub. Proyek ini bertujuan untuk melatih kolaborasi tim, pengelolaan branch, pembuatan Pull Request (PR), serta penanganan merge conflict secara terstruktur.
-=======
+
 ## Rencana Projek
 Sistem projek akan dikembangkan dengan menambahkan beberapa fitur, seperti sistem rekomendasi menu, fitur ulasan dan rating, notifikasi pesanan, serta riwayat transaksi pengguna agar kedepannya akan memfasilitasi pemesanan secara langsung
 
-
-
->>>>>>> 94aecd56f4e5d16f671c858433dfd6d0afd2fc79
 >>>>>>> main
+=======
+>>>>>>> 8191dd1d8c87f2380367fa0ccb8e4f62975da381
