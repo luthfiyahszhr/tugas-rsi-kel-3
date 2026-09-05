@@ -1,1 +1,0 @@
-# prak-rsi-kel-s
